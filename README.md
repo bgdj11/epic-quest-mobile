@@ -97,7 +97,7 @@ git clone https://github.com/yourusername/epic-quest.git
 
 5. Run on an emulator or physical device
 
-## 📝 Firebase Setup
+## Firebase Setup
 
 1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
 2. Enable Email/Password authentication
@@ -161,7 +161,7 @@ items/
 4. Mission must be completed before deadline
 5. Success awards all members with special badges
 
-## 📦 Dependencies
+## Dependencies
 
 ```gradle
 dependencies {
