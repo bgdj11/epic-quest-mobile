@@ -1,21 +1,21 @@
 # EpicQuest - Your Life, Gamified
 
-## 📱 About The Project
+## About The Project
 
 EpicQuest is an innovative Android application that revolutionizes personal productivity by transforming mundane daily tasks into thrilling RPG adventures. Every task becomes a quest, every completed goal brings you closer to leveling up, and every challenge conquered earns you legendary rewards. Built with Java and powered by Firebase, EpicQuest combines the addictive mechanics of role-playing games with real-world productivity, making personal growth an epic journey worth embarking on.
 
 Whether you're conquering work deadlines, maintaining healthy habits, or crushing personal goals, EpicQuest turns you into the hero of your own story. Team up with friends in powerful alliances, face formidable bosses together, and watch as your virtual character grows stronger with every real-world achievement.
 
-## ✨ Key Features
+## Key Features
 
-### 🎮 Gamification System
+### Gamification System
 - **Experience Points (XP)**: Earn XP by completing tasks
 - **Level System**: Progress through levels with increasing XP requirements
 - **Player Profile**: Track your avatar, level, title, and achievements
 - **Badges**: Showcase completed special missions
 - **Virtual Currency**: Earn coins to purchase in-game items
 
-### 📋 Task Management
+### Task Management
 - **Create Tasks**: Add tasks with title, description, category, difficulty, and deadline
 - **Task Categories**: Organize tasks (Work, Personal, Study, Health, Shopping, Other)
 - **Difficulty Levels**: Choose from Very Easy, Easy, Hard, or Extremely Hard (affects XP rewards)
@@ -23,31 +23,31 @@ Whether you're conquering work deadlines, maintaining healthy habits, or crushin
 - **Daily Tasks**: View and manage tasks scheduled for today
 - **Task History**: Review all completed tasks with completion logs
 
-### 👥 Social Features
+### Social Features
 - **Friends System**: Add friends by scanning QR codes
 - **Alliances**: Create or join alliances with friends
 - **Public Profiles**: View other players' stats, badges, and active equipment
 - **Leaderboards**: Compare your progress with friends
 
-### 🏆 Special Missions (Boss Battles)
+### Special Missions (Boss Battles)
 - **Alliance Missions**: Team up with alliance members to defeat bosses
 - **Boss Health System**: Reduce boss HP by completing daily tasks
 - **Time-Limited**: Complete missions before the deadline
 - **Alliance Rewards**: Earn special rewards for your entire alliance
 
-### 📊 Statistics & Progress
+### Statistics & Progress
 - **Consecutive Active Days**: Track your daily consistency
 - **Task Completion Charts**: Visualize tasks by category, difficulty, and status
 - **XP Progress**: Monitor your XP gains over the last 7 days
 - **Mission Statistics**: View started and completed special missions
 - **Longest Streak**: See your best completion streak
 
-### 🛍️ Shop System
+### Shop System
 - **Buy Items**: Purchase equipment and power-ups with coins
 - **Active Items**: Equip items to your profile
 - **Item Management**: View and manage your inventory
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Language**: Java
 - **Platform**: Android (SDK 33)
@@ -60,14 +60,14 @@ Whether you're conquering work deadlines, maintaining healthy habits, or crushin
 - **QR Code**: ZXing library
 - **Build Tool**: Gradle
 
-## 📐 Architecture
+## Architecture
 
 - **Repository Pattern**: Clean separation between data and UI layers
 - **Firebase Integration**: Real-time database updates
 - **Fragment-Based Navigation**: Modern Android navigation patterns
 - **Custom Managers**: LevelManager, NotificationManager for game logic
 
-## 🔐 Authentication
+## Authentication
 
 - **Email/Password Registration**: Secure user account creation
 - **Login System**: Persistent sessions with Firebase Auth
@@ -139,7 +139,7 @@ items/
     - category
 ```
 
-## 🎯 Core Functionalities
+## Core Functionalities
 
 ### Task Lifecycle
 1. User creates a task with details and deadline
@@ -186,11 +186,11 @@ dependencies {
 }
 ```
 
-## 💡 Why EpicQuest?
+## Why EpicQuest?
 
 Traditional task management apps can feel monotonous and uninspiring. EpicQuest changes the game by making productivity fun, engaging, and social. By leveraging proven gamification mechanics, we've created an experience that motivates users to not just track their tasks, but to genuinely look forward to completing them. The social aspect adds accountability and camaraderie, turning personal growth into a shared adventure.
 
-## 👥 Team
+## Team
 
 This project was developed as part of Mobile Applications course (2025).
 
